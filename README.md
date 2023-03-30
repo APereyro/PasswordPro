@@ -5,10 +5,10 @@
 Password Generator that generates a 8-128 letter password that includes lowercase letters, uppercase letter, number, and special characters.
 
 
-![PasswordProFirst](/PasswordPro/Assets/03-javascript-homework-demo.png)
+![FirstPage](/PasswordPro/Assets/images/FirstPage.png)
 
 
-![PasswordProSecond](/PasswordPro/Assets/Screenshot%20(17).png)
+![SecondPage](/PasswordPro/Assets/images/SecondPage.png)
 
 
 ## Contributions
